@@ -79,6 +79,7 @@ Google API Setup:
 Enable the Google Drive API on Google Cloud Console
 
 Download credentials.json and place it in your ~/Downloads/ directory
+
 ---
 🙌 Acknowledgements
 
