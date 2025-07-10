@@ -34,6 +34,8 @@ Key features include Tor-based routing, DuckDuckGo privacy search, k-anonymity w
 
 -cloud.py --this is the main file, no other files are required. Code will automatically create required files once it is run.
 
+---
+
 # ▶️ How to Run
 
 1. Install dependencies:
@@ -44,6 +46,8 @@ pip install -r requirements.txt
 ```bash
 python cloud.py
 ```
+---
+
 🔐 Usage Flow
 
 Register/Login to access secure features
