@@ -72,7 +72,7 @@ Files like shared_key.key, users.json, and token.json are generated automaticall
 
 Python: 3.8+
 
-Tor: Must be installed and running on port 9050
+Tor: Must be installed 
 
 VPN: Optional but supported
 
