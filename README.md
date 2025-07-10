@@ -62,6 +62,8 @@ Encrypted Chat (Fernet E2E)
 
 Files like shared_key.key, users.json, and token.json are generated automatically.
 
+---
+
 📌 Requirements
 
 Python: 3.8+
@@ -77,8 +79,9 @@ Google API Setup:
 Enable the Google Drive API on Google Cloud Console
 
 Download credentials.json and place it in your ~/Downloads/ directory
-
+---
 🙌 Acknowledgements
+
 Thanks to our instructor and team for their continuous support and guidance. This project allowed us to explore practical privacy-enhancing technologies and understand how modern cryptography and network privacy tools work in real applications.
 
 
