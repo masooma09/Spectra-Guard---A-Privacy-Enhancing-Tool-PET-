@@ -37,13 +37,13 @@ Key features include Tor-based routing, DuckDuckGo privacy search, k-anonymity w
 # ▶️ How to Run
 
 1. Install dependencies:
-
+```bash
 pip install -r requirements.txt
-
+```
 2. Run the program:
-
+```bash
 python cloud.py
-
+```
 🔐 Usage Flow
 
 Register/Login to access secure features
